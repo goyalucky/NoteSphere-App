@@ -65,9 +65,9 @@ cd notesphere
 
 ### 2. Install Dependencies
 
-**Backend:**
+**Server:**
 ```bash
-cd backend
+cd server
 npm install
 ```
 
@@ -89,7 +89,7 @@ NODE_ENV=development
 
 ### 4. Start the Application
 
-**Backend (Terminal 1):**
+**Server (Terminal 1):**
 ```bash
 cd backend
 npm run dev
