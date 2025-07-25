@@ -174,8 +174,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/goyalucky)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/lucky-goyal-111766260/)
+- GitHub: [@luckygoyal](https://github.com/goyalucky)
+- LinkedIn: [Lucky Goyal](https://www.linkedin.com/in/lucky-goyal-111766260/)
 
 ## 🙏 Acknowledgments
 
