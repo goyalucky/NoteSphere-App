@@ -91,14 +91,14 @@ NODE_ENV=development
 
 **Server (Terminal 1):**
 ```bash
-cd backend
-npm run dev
+cd server
+npm start
 ```
 
 **Frontend (Terminal 2):**
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 
 The application will be available at `http://localhost:3000`
